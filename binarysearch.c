@@ -1,5 +1,3 @@
-//binary search 
-//sreehari
 #include <stdio.h>
 int binarysearch(int arr[], int left, int right, int target)
 {
