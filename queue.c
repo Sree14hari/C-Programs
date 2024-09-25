@@ -8,7 +8,7 @@ void main ()
 printf("enter size of queue"); scanf("%d",&n);
 int choice; 
 do {
-printf("choice \n 1.push\n 2.pop\n 3.display\n ");
+printf("choice \n 1.insert\n 2.delete\n 3.display\n ");
 scanf("%d",&choice);
 switch(choice) {
 case 1:{
